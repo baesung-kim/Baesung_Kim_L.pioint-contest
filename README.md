@@ -9,8 +9,10 @@ AI 기반 초개인화 컨텐츠 추천 (부제 : 고객 행동/소비 컨텍스
 3) 1), 2) 를 활용한 비즈니스 전략 수립
 
 ## Contents
-01 ~ 10 : Feature Engineering
-11 ~ 13 : Customer Clustering
+Number | Contesnts
+------------ | -------------
+01 ~ 10 | Feature Engineering
+11 ~ 13 | Customer Clustering
 
-##Contact
+## Contact
 김배성(Baesung Kim) : qjqndi@gmail.com
