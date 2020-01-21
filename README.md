@@ -1,1 +1,2 @@
-# Purpose
+# L.point Bigdata Competition
+
