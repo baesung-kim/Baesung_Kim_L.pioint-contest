@@ -3,7 +3,7 @@
 > Homepage : https://competition.lpoint.com/
 
 ## Subject
-Recommending ultra-personalized content based on AI 
+**Recommending ultra-personalized content based on AI**
 
 > (sub_title: recommending customized contents by customer behavior & consumption context)
 
