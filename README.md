@@ -13,7 +13,7 @@
 3) Establish a business strategy using 1) and 2)
 
 ## data
-1) Provided : Online-action, Offline-purchase, Product classification information
+1) Provided : Customer's online-action, Customer's offline-purchase, Customer's demographic imformation, Product classification information
 2) Foreign : 2019 Online shopping trends in Korea by Korea Statistical Office
 
 **Data files exceed Github's file size. If you need data files, please contact me throuh e-mail below**
