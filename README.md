@@ -3,7 +3,7 @@
 
 ## Subject
 Recommending ultra-personalized content based on AI 
-(sub_title: recommending customized contents by customer behavior & consumption context)
+ (sub_title: recommending customized contents by customer behavior & consumption context)
 #### detailed task
 1) Identify customer preferences and lifestyles based on Big Data 
 2) Develope customized recommendation algorithms by context of customer behavior based on AI
