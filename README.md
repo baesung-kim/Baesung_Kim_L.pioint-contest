@@ -2,7 +2,8 @@
 (Competition to create super personalization recommendation algorithms using customer data from L.point, which is a membership that can be used simultaneously by Lotte affiliates)
 
 ## Subject
-Recommending ultra-personalized content based on AI (sub_title: recommending customized contents by customer behavior & consumption context)
+Recommending ultra-personalized content based on AI 
+(sub_title: recommending customized contents by customer behavior & consumption context)
 #### detailed task
 1) Identify customer preferences and lifestyles based on Big Data 
 2) Develope customized recommendation algorithms by context of customer behavior based on AI
