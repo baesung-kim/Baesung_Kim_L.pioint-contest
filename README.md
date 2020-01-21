@@ -4,14 +4,14 @@
 ## Subject
 Recommending ultra-personalized content based on AI 
 
-(sub_title: recommending customized contents by customer behavior & consumption context)
+> (sub_title: recommending customized contents by customer behavior & consumption context)
 
 #### detailed task
 1) Identify customer preferences and lifestyles based on Big Data 
 2) Develope customized recommendation algorithms by context of customer behavior based on AI
 3) Establish a business strategy using 1) and 2)
 
-## utilization data
+## data
 1) Provided : Online-action, Offline-purchase, Product classification information
 2) Foreign : 2019 Online shopping trends in Korea by Korea Statistical Office
 
