@@ -1,5 +1,6 @@
 # L.point Bigdata Competition
 **(Competition to create super personalization recommendation algorithms using customer data from L.point, which is a membership that can be used simultaneously by Lotte affiliates)**
+> Homepage : https://competition.lpoint.com/
 
 ## Subject
 Recommending ultra-personalized content based on AI 
