@@ -1,5 +1,5 @@
 # L.point Bigdata Competition
-(Competition to create super personalization recommendation algorithms using customer data from L.point, which is a membership that can be used simultaneously by Lotte affiliates)
+**(Competition to create super personalization recommendation algorithms using customer data from L.point, which is a membership that can be used simultaneously by Lotte affiliates)**
 
 ## Subject
 Recommending ultra-personalized content based on AI 
@@ -15,7 +15,7 @@ Recommending ultra-personalized content based on AI
 1) Provided : Online-action, Offline-purchase, Product classification information
 2) Foreign : 2019 Online shopping trends in Korea by Korea Statistical Office
 
-Data files exceed Github's file size. If you need data files, please contact me throuh e-mail below
+**Data files exceed Github's file size. If you need data files, please contact me throuh e-mail below
 
 ## Contents
 Number | Contesnts
@@ -26,4 +26,4 @@ Number | Contesnts
 
 
 ## Contact
-김배성(Baesung Kim) : qjqndi@gmail.com
+> **김배성(Baesung Kim) : qjqndi@gmail.com
