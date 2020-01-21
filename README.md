@@ -13,6 +13,7 @@ Number | Contesnts
 ------------ | -------------
 01 ~ 10 | Feature Engineering
 11 ~ 13 | Customer Clustering
+14 | Presentation Material
 
 ## Contact
 김배성(Baesung Kim) : qjqndi@gmail.com
