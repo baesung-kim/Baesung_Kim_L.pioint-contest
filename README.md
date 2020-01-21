@@ -15,12 +15,15 @@ Recommending ultra-personalized content based on AI
 1) Provided : Online-action, Offline-purchase, Product classification information
 2) Foreign : 2019 Online shopping trends in Korea by Korea Statistical Office
 
+Data files exceed Github's file size, if need data files please contact me throuh e-mail below
+
 ## Contents
 Number | Contesnts
 ------------ | -------------
 01 ~ 10 | Feature Engineering
 11 ~ 13 | Customer Clustering
 14 | Presentation Material
+
 
 ## Contact
 김배성(Baesung Kim) : qjqndi@gmail.com
