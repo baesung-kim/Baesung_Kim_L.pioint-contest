@@ -12,7 +12,7 @@
 2) Develope customized recommendation algorithms by context of customer behavior based on AI
 3) Establish a business strategy using 1) and 2)
 
-## data
+## Data
 >Provided : 
 1) Customer's online-action
 2) Customer's offline-purchase
