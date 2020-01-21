@@ -19,7 +19,7 @@
 3) Customer's demographic imformation
 4) Product classification information
 >Foreign : 
-2019 Online shopping trends in Korea by Korea Statistical Office
+1) 2019 Online shopping trends in Korea by Korea Statistical Office
 
 **Data files exceed Github's file size. If you need data files, please contact me throuh e-mail below**
 
